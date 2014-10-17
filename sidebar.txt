@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[llo:home|Door43 (llo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-llo|d43-llo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-llo/archive/master.zip|d43-llo.zip]]
+
+**Recent Changes**
+{{changes>ns = llo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/llo|Ethnologue data]]
+
